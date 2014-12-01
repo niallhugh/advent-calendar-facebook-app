@@ -1,4 +1,4 @@
-advent-calendar-facebook-app
+Advent Calendar Facebook App
 ============================
 
 A PHP &amp; JavaScript facebook app
